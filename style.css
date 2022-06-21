@@ -1,0 +1,11 @@
+h1 {
+  font-family: "Chivo", sans-serif;
+  font-size: 100px;
+  width: 6ch;
+  text-align: center;
+  line-height: 0.75;
+  margin: 0 auto;
+  margin-top: 1.5em;
+  position: relative;
+  z-index: 100;
+}
