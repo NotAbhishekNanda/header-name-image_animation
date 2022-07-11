@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background: black;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+h1 {
+  text-transform: uppercase;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-size: 10vw;
+}
